@@ -8,6 +8,7 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br />
+<br />
 <h2 align="center">💻 Languages and Tools</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
