@@ -1,4 +1,4 @@
-# Hi👋, I'm Karan Bisht
+# <img width="30px" height="30px" src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"> Hi, I'm Karan Bisht
 <img align="right" alt="Github GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m a MERN Stack Web Developer.
@@ -8,11 +8,7 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br />
-<div style="display: flex; gap: 6px; align-items: center; justify-content: center">
-    <img width="35px" height="35px" src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330">
-    <span style="font-size: 24px">Languages and Tools</span>
-</div>
-<hr />
+<h2 align="center">💻 Languages and Tools</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,14 +44,14 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 </div>
 
 <div align="center">
-    <h2> Connect with me:</h2>
-    <a href="https://twitter.com/karan_b1603" target="_blank">
+    <h2>🔗 Connect with me:</h2>
+    <a href="https://twitter.com/karan_b1603">
         <img  src="https://img.icons8.com/color/48/000000/twitter--v2.png" height="40" width="40" /> 
     </a>
-    <a href="https://www.linkedin.com/in/karan-bisht1603/" target="_blank">
+    <a href="https://www.linkedin.com/in/karan-bisht1603/">
         <img  src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" /> 
     </a>
-    <a href="mailto:karan161003@gmail.com" target="_blank">
+    <a href="mailto:karan161003@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" /> 
     </a>
 </div>
