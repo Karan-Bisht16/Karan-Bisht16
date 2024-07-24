@@ -36,7 +36,7 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 <div align="center">
     <img width="100%" src="https://streak-stats.demolab.com/?user=Karan-Bisht16&theme=react" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Bisht16&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Bisht16&layout=compact&langs_count=10&theme=react" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Bisht16&layout=compact&langs_count=10&theme=react" />
 </div>
 
 <div align="center">
@@ -49,13 +49,13 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 
 <div align="center">
     <h2> Connect with me:</h2>
-    <a href="https://twitter.com/karan_b1603" target="blank">
+    <a href="https://twitter.com/karan_b1603" target="_blank">
         <img  src="https://img.icons8.com/color/48/000000/twitter--v2.png" height="40" width="40" /> 
     </a>
-    <a href="https://www.linkedin.com/in/karan-bisht1603/" target="blank">
+    <a href="https://www.linkedin.com/in/karan-bisht1603/" target="_blank">
         <img  src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" /> 
     </a>
-    <a href="mailto:karan161003@gmail.com" target="blank">
+    <a href="mailto:karan161003@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" /> 
     </a>
 </div>
