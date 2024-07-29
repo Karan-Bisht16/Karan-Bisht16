@@ -1,10 +1,10 @@
 # <img width="30px" height="30px" src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"> Hi, I'm Karan Bisht
 <img align="right" alt="Github GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I’m a MERN Stack Web Developer.
+- 👨‍💻 I’m a **MERN Stack Web Developer**.
 - 🔭 I’m currently working on [**SyncSpace: A Reddit-like Web
 App**](https://syncspace-karan-bishts-projects.vercel.app/).
-- 📚 I’m currently learning everything about React and practising DSA.
+- 📚 I’m currently learning everything about **React.js** and practising DSA.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br />
@@ -41,8 +41,6 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
     <h2 align="center">📈 Other stats</h2>
     <img width="48%" src="https://stats.quira.sh/Karan-Bisht16/github?theme=dark" />
     <img width="48%" src="https://stats.quira.sh/Karan-Bisht16/dependencies?theme=dark" />
-    <img width="96%" src="https://stats.quira.sh/Karan-Bisht16/topics-over-time?theme=dark" />
-    <img width="96%" src="https://stats.quira.sh/Karan-Bisht16/languages-over-time?theme=dark" />
 </div>
 
 <div align="center">
