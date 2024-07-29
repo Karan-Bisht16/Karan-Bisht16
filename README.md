@@ -4,7 +4,7 @@
 - 👨‍💻 I’m a **MERN Stack Web Developer**.
 - 🔭 I’m currently working on [**SyncSpace: A Reddit-like Web
 App**](https://syncspace-karan-bishts-projects.vercel.app/).
-- 📚 I’m currently learning everything about **React.js** and practising DSA.
+- 📚 I’m currently learning everything about **React.js** and practicing DSA.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br />
