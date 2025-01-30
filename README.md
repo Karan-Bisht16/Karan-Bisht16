@@ -6,6 +6,7 @@
 App**](https://syncspace-karan-bishts-projects.vercel.app/).
 - 📚 I’m currently learning everything about **React.js** and practicing DSA.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Karan-Bisht16" alt="Visitor Badge" />
 
 <br />
 <br />
@@ -21,7 +22,6 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -34,13 +34,14 @@ App**](https://syncspace-karan-bishts-projects.vercel.app/).
 <div align="center">
     <img width="100%" src="https://streak-stats.demolab.com/?user=Karan-Bisht16&theme=react" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Bisht16&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Bisht16&layout=compact&langs_count=10&theme=react" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Bisht16&layout=compact&langs_count=8&theme=react" />
 </div>
 
 <div align="center">
     <h2 align="center">📈 Other stats</h2>
     <img width="48%" src="https://stats.quira.sh/Karan-Bisht16/github?theme=dark" />
     <img width="48%" src="https://stats.quira.sh/Karan-Bisht16/dependencies?theme=dark" />
+    
 </div>
 
 <div align="center">
